@@ -13,9 +13,9 @@
      </ul>
 </div>
 
-## Live : [here](https://647816478fb6852e3eed0a5c--joyful-unicorn-72e152.netlify.app)
+## Live : [here](https://vinceflores.netlify.app/)
 
-[![projects_dark_paint](Assets/projects_dark_paint.png)](https://647816478fb6852e3eed0a5c--joyful-unicorn-72e152.netlify.app)
+[![projects_dark_paint](Assets/projects_dark_paint.png)](https://vinceflores.netlify.app/)
 
 
 
