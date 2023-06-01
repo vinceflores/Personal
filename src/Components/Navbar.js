@@ -39,7 +39,7 @@ export const NavFloat = () => {
           rounded-l-xl
         
         backdrop-inver backdrop-blur-lg
-        text-blue-400 dark:text-blue-500
+        text-blue-600 dark:text-blue-700
         ${hide ? "hidden" : ""}
     `}
       > 
@@ -59,7 +59,7 @@ export const NavFloat = () => {
         <FontAwesomeIcon icon={faPhone} />
         </Link>
         <button>
-          <FontAwesomeIcon icon={faEye} className="text-blue-500" />
+          <FontAwesomeIcon icon={faEye} className="text-blue-800" />
         </button>
       </div>
 

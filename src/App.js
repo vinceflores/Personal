@@ -74,8 +74,8 @@ function App() {
             onClick={() => setPaint(paint ? false: true)}
             className="w-10 h-10 absolute top-0  right-0 rounded-l-3xl  border border-black dark:border-white   bg-transparent backdrop-blur-sm "
           >
-            <FontAwesomeIcon icon={faDropletSlash} className={paint ? "" : "hidden"} />
-            <FontAwesomeIcon icon={faDroplet} className={`${!paint ? "" : "hidden"}`}  />
+            <FontAwesomeIcon icon={faDropletSlash} className={!paint ? "" : "hidden"} />
+            <FontAwesomeIcon icon={faDroplet} className={`${paint ? "" : "hidden"}`}  />
           </button>
         </div>
 
