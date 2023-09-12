@@ -18,7 +18,7 @@ const Hero = () => {
           Hi, Welcome to my personal Website
         </h2>
         <button className="w-32 rounded-r-2xl dark:border-[.5px] text-white bg-slate-900">
-          <a href={resume} target="_blank">
+          <a href={"https://drive.google.com/file/d/14QffQM_gyWAAw9yBIc0yYOLAatiJ9-OU/view?usp=drive_link"} target="_blank">
             Download CV
           </a>
         </button>
